@@ -6,7 +6,7 @@ librosa==0.6.1
 llvmlite==0.23.2
 musdb==0.2.3
 numba==0.38.1
-numpy==1.14.5
+numpy==1.22.0
 Pillow==5.1.0
 pyaml==17.12.1
 pycparser==2.18
